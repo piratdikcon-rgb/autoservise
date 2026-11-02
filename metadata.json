@@ -1,0 +1,6 @@
+{
+  "name": "Apex Motors — Премиальный автосервис",
+  "description": "Профессиональный автосервис и технический центр: компьютерная диагностика, регулярное ТО, ремонт подвески, двигателя и трансмиссии с гарантией до 2 лет.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
